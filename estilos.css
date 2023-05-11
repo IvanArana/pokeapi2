@@ -93,6 +93,8 @@ main{
 
 .pokemon{
     border-radius: 1rem;
+    border-top-left-radius: 25rem;
+    border-top-right-radius: 25rem;
     background-color: var(--clr-white);
     box-shadow: 0 0 3rem -1rem rgba(0, 0, 0, .25);
     padding-block: 1rem;
